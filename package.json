@@ -19,8 +19,9 @@
     "through": "^2.3.8"
   },
   "devDependencies": {
+    "mock-fs": "^4.13.0",
     "standard": "*",
-    "tape": "^4.0.0"
+    "tape": "^5.0.1"
   },
   "homepage": "https://github.com/feross/hostile",
   "keywords": [
